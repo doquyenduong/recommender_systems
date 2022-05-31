@@ -25,8 +25,8 @@ Deezer is a music streaming app offering more than 43 million tracks and is avai
 How can we accurately predict whether the user would listen to the new track recommended to them (>30 seconds without clicking Next)?
 What other factors need to be considered to develop an accurate and robust music recommendation system for their day-to-day business?
 
-## Programming language: 
+## Programming language & models used: 
 * Python
-* Classfication approach
-* Recommender system approach
+* Classfication approach: Decision tree, KNN, Logistic regression, random forest, SVM
+* Recommender system approach: keras deep learning, SVD, Matrix Factorization, non-personalise recommendation
 
