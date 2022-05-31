@@ -14,6 +14,9 @@ Please reference any work or code you think is interesting; a report of about si
 
 ## Project Background
 
+![image](https://user-images.githubusercontent.com/83208743/171134429-4516a22b-5fca-4751-8821-813358877385.png)
+
+
 Deezer is a music streaming app offering more than 43 million tracks and is available in more than 180 countries
 
 - Getting the music recommendation right is crucial to attract and retain customers
